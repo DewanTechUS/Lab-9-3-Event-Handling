@@ -69,7 +69,7 @@ Throughout this process, I gained a stronger understanding of:
 
 ### Troubleshooting Note 
 
-I spent about 30 minutes figuring out what was causing the issue and how to fix it.
+I already fixed this issue in previous labs by changing the settings below, but I should have mentioned it earlier.
 
 Both `tsconfig.node.json` and `tsconfig.app.json` include the setting:
 1. "verbatimModuleSyntax": true
