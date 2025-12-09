@@ -75,6 +75,8 @@ const App: React.FC = () => {
   return (
     <div className="app">
       <h1>Task Manager</h1>
+      <h2>Dewan Mahmud-Student of Per Scholas</h2>
+      <h2>Lab 3 Lists, Keys, and Conditionals</h2>
 
       <TaskFilter onFilterChange={handleFilterChange} />
 
